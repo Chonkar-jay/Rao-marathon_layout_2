@@ -7,14 +7,26 @@
     background-color: #2d7e7b;
     padding: 4%;
 }
+.company_name b
+{
+    color: orangered;
+}
 .main_img
 {
-    position:relative;
+    position:absolute;
     margin-top: 5%;
+}
+.bottom_half
+{
+    margin-top:87.5%;
 }
 .bottom_headings
 {
     color:#2d7e7b;
+}
+.bottom_right_section
+{
+    padding-left: 10%;
 }
 .numbering h1
 {
@@ -26,13 +38,14 @@
 {
     background-color: #2d7e7b;
     color: white;
+    padding: 5%;
 }
 .contact_us
 {
     background-color: orangered;
     color: white;
     margin-top: 0px;
-    padding: 10%;
+    padding: 5%;
 }
 .about_us_discription
 {
@@ -45,5 +58,5 @@
 .bottom_link
 {
     background-color: lightgray;
-    padding: 10%;
+    padding: 5%;
 }
