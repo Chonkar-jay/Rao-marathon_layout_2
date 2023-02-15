@@ -4,10 +4,46 @@
 }
 .logo
 {
-    background-color: #406766;
+    background-color: #2d7e7b;
+    padding: 4%;
 }
 .main_img
 {
-    position: absolute;
-    margin-top: 15%;
+    position:relative;
+    margin-top: 5%;
+}
+.bottom_headings
+{
+    color:#2d7e7b;
+}
+.numbering h1
+{
+    color: orangered;
+    font-size: 300%;
+
+}
+.about_us
+{
+    background-color: #2d7e7b;
+    color: white;
+}
+.contact_us
+{
+    background-color: orangered;
+    color: white;
+    margin-top: 0px;
+    padding: 10%;
+}
+.about_us_discription
+{
+    text-align: right;
+}
+.contact_us_discription
+{
+    text-align: right;
+}
+.bottom_link
+{
+    background-color: lightgray;
+    padding: 10%;
 }
