@@ -1,0 +1,99 @@
+.upper_left_area
+{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.logo
+{
+    background-color: #2d7e7b;
+    margin-bottom:20%;
+    box-shadow: -4px -4px #0e3533;
+    
+}
+.company_name
+{
+    padding-bottom: 18%;
+    font-size: 30;
+}
+.company_name b
+{
+    color: orangered;
+    
+}
+.upper_right_area
+{
+    background-color: #2d7e7bc5;
+    margin-left: 73%;
+    margin-top: -15%;
+    height: 290px;
+    padding-bottom: 5%;
+    border-bottom-left-radius:130px;
+    border-bottom-right-radius:130px;
+}
+.upper_right_area p
+{
+    position: relative;
+    color: white;
+    font-weight:1000;
+    font-size:40;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.main_img
+{
+  margin-top: -15%;
+}
+.bottom_left_section
+{
+    margin-top: 3%;
+    margin-left: 2%;
+}
+.bottom_headings
+{
+    
+    color:#2d7e7b;
+}
+.bottom_right_section
+{
+    padding-left: 10%;
+    
+}
+.numbering h1
+{
+    color: orangered;
+    font-size: 300%;
+
+}
+.about_us
+{
+    background-color: #2d7e7b;
+    color: white;
+    padding: 5%;
+}
+.contact_us
+{
+    background-color: orangered;
+    color: white;
+    margin-top: 0px;
+    padding: 5%;
+}
+.about_us_discription
+{
+    text-align: right;
+}
+.contact_us_discription
+{
+    text-align: right;
+}
+.bottom_link
+{
+    background-color: lightgray;
+    padding: 5%;
+}
+.footer
+{
+    margin-top: 2%;
+    padding: 1%;
+    background-color: orangered;
+}
